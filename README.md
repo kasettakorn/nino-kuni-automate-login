@@ -49,6 +49,7 @@ To use the automation, type:
 ```
 start <PUBLIC_PATH>/nino_kuni.exe
 ```
+or open .exe from "/dist/nino_kuni.exe"
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
