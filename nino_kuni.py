@@ -31,7 +31,7 @@ gui.moveTo(951,512)
 gui.leftClick()
 
 
-gui.write(password, interval=0.1)
+gui.write(password, interval=0.05)
 gui.moveTo(1055, 812)
 gui.leftClick()
 gui.moveTo(1055, 612)
