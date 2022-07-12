@@ -34,7 +34,7 @@ The entire bot is written in Python 3.10
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
+https://drive.google.com/file/d/1jqXy2BIhPTbxdc3pUX4wfmbTJoQ0X5G2/view?usp=sharing
 
 ## ⚠ Warning <a name = "working"></a>
 
