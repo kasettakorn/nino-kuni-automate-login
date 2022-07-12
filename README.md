@@ -37,8 +37,8 @@ https://drive.google.com/file/d/1jqXy2BIhPTbxdc3pUX4wfmbTJoQ0X5G2/view?usp=shari
 
 ## ⚠ Warning <a name = "working"></a>
 
-- Password file isn't encrypted for this version. Keep your secret file. (Encrypt version coming soon !)<br/>
-- The resolution screen may be affected for the bot that it is clicked misplaced.
+- Password file isn't encrypted for this version. Keep your secret file. (Encrypt version coming soon!)<br/>
+- The resolution screen may be affected for the bot that it clicks misplaced.
 
 
 ## 🎈 Usage <a name = "usage"></a>
