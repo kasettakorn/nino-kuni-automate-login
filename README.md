@@ -1,6 +1,6 @@
 <p align="center">
  <a href="" rel="noopener">
- <img width=200px height=200px src="./logo.png" alt="Bot logo"></a>
+ <img width=100px height=100px src="./logo.png" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">Ni no Kuni: CrossWorlds Login Automation </h3>
