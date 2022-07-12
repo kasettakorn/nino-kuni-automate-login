@@ -39,7 +39,7 @@ The entire bot is written in Python 3.10
 ## ⚠ Warning <a name = "working"></a>
 
 - Password file isn't encrypted for this version. Keep your secret file.<br/>
-- The game loading time is affected for the bot because each interaction has a set gap time.
+- The resolution screen may be affected for the bot that it is clicked misplaced.
 
 
 ## 🎈 Usage <a name = "usage"></a>
