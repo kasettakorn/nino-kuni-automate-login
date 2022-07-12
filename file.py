@@ -1,6 +1,6 @@
 import os
 
-import bcrypt, pyautogui as gui
+import pyautogui as gui
 
 salt = b'$2b$12$u0VZrJCZLV3fFwqywWOKVe'
 
