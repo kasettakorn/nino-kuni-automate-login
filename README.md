@@ -15,7 +15,6 @@
 ---
 
 <p align="center"> Automated interaction login to Ni no Kuni: CrossWorlds with Python
-    <br> 
 </p>
 
 <!-- ## 📝 Table of Contents
